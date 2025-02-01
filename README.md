@@ -57,6 +57,9 @@
     </a>
 </p>
 <h1 align="left">Github Stats 📊</h1>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=must-git" alt="ourouimed" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=must-git&show_icons=true&locale=en&layout=compact" alt="ourouimed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=must-git&show_icons=true&locale=en" alt="ourouimed" /></p>
