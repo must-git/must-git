@@ -114,7 +114,7 @@
 <div style="display: flex; align-items: start; justify-content:start">
   <img src="https://github-profile-trophy.vercel.app/?username=must-git" alt="Mustapha's Github Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=must-git&show_icons=true&locale=en&layout=compact" alt="Mustapḥ'sa Top Languages" width="41%" height="197" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=must-git" alt="Mustapha's GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=must-git" alt="Mustapha's GitHub Streak" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=must-git&show_icons=true&locale=en" alt="Mustapha's github stats" />
 </div>
 
