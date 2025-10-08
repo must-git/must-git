@@ -11,18 +11,21 @@
 <div align="center">
   <p>
     <a href="mailto:mustaphaachahrour@gmail.com">
-      <img src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/>
-    </a> 
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
     <a href="https://www.linkedin.com/in/mustapha-achahrour" target="_blank">
-      <img src="https://img.shields.io/badge/%7C-linkedin-blue?style=for-the-badge&logo=linkedin"/>
-    </a> 
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://must-folio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
   </p>
 </div>
 
 <br>
 
 <h1 align="left">Tech Stack 💻</h1>
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -104,8 +107,12 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,python,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=php,react,django,mongodb,git,github,vercel" />
+</p>
 
 <br>
 
