@@ -1,23 +1,19 @@
-<p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+Guys!+%F0%9F%91%8B;%E2%98%95+Welcome+Home+%E2%98%95;%E2%9D%A4%EF%B8%8F+I+am+Mustapha+%E2%9D%A4%EF%B8%8F;%F0%9F%94%A5+CS+Student+%F0%9F%94%A5;%E2%9C%A8+Still+Progressing+%F0%9F%8E%93;%E2%9C%8C%EF%B8%8F+Peace+%26+Love+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-  
-</p>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+Guys!+%F0%9F%91%8B;%E2%98%95+Welcome+Home+%E2%98%95;%E2%9D%A4%EF%B8%8F+I+am+Mustapha+%E2%9D%A4%EF%B8%8F;%F0%9F%94%A5+CS+Student+%F0%9F%94%A5;%E2%9C%A8+Still+Progressing+%F0%9F%8E%93;%E2%9C%8C%EF%B8%8F+Peace+%26+Love+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
-<div align="start" style="gap: 100px;">
+<div align="center" style="gap: 100px;">
 
 <h1 align="left">Let's Connect and have a Chat! 📬</h1>
 
 <div align="center">
   <p>
-    <a href="mailto:mustaphaachahrour@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="https://must-folio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-DD4433?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/mustapha-achahrour" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
     </a>
-    <a href="https://must-folio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <a href="mailto:mustaphaachahrour@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-FF9900?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
 </div>
