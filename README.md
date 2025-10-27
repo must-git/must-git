@@ -1,6 +1,7 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+Guys!+%F0%9F%91%8B;%E2%98%95+Welcome+Home+%E2%98%95;%E2%9D%A4%EF%B8%8F+I+am+Mustapha+%E2%9D%A4%EF%B8%8F;%F0%9F%94%A5+CS+Student+%F0%9F%94%A5;%E2%9C%A8+Still+Progressing+%F0%9F%8E%93;%E2%9C%8C%EF%B8%8F+Peace+%26+Love+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center" style="gap: 100px;">
+ 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=30&duration=3000&pause=2000&color=00FFD2&center=true&vCenter=true&width=1024&height=100&lines=Yo+Geeks!;My+name+is+...;Mustapha+%7C+%D9%85%D8%B5%D8%B7%D9%81%D9%89+%7C++%E2%B5%8E%E2%B5%93%E2%B5%99%E2%B5%9C%E2%B4%B0%E2%B4%BC%E2%B4%B0;I+am+a+Software+Engineering+Student;Welcome+y'all++%7C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D9%83%D9%85+%7C+%E2%B4%B0%E2%B5%8F%E2%B5%99%E2%B5%93%E2%B4%BC+%E2%B4%BC%E2%B4%BB%E2%B5%8D%E2%B5%8D%E2%B4%B0%E2%B5%A1%E2%B4%BB%E2%B5%8F;%5E_%5E+Peace+and+Code+%3C%2F%3E" alt="Typing SVG" /></a>
 
   <h1 align="left">Let's Connect and have a Chat! 📬</h1>
   
