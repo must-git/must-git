@@ -18,7 +18,7 @@ jobs:
       - name: Generate GitHub contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: <your-username>
+          github_user_name: must-git
           outputs: dist/snake.svg
 
       - name: Push generated files
