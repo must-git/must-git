@@ -22,89 +22,6 @@
   <br>
   
   <h1 align="left">Tech Stack 💻</h1>
-  <!-- <table align="center">
-    <tr>
-      <td align="center">
-        <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center">
-        <a title="Java" href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="PHP" href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a title="HTML5" href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="CSS3" href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="JavaScript" href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-        </a>
-      </td>
-      <td align="center">
-        <a title="MySQL" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="Linux" href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="GitHub" href="https://github.com/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40">
-        </a>
-      </td>
-      <td align="center">
-        <a title="VS Code" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
-        </a>
-      </td>
-    </tr>
-  </table> -->
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,python,java" /><br/>
@@ -114,7 +31,7 @@
   <br/>
   <h1 align="left">My GitHub Contribution 🐍</h1>
 
-  ![GitHub Snake](https://raw.githubusercontent.com/must-git/must-git/output/snake.svg)
+  <img src="https://raw.githubusercontent.com/must-git/must-git/output/snake.svg" />
   
   <br>
   
