@@ -31,7 +31,7 @@
   <br/>
   <h1 align="left">My GitHub Contribution 🐍</h1>
 
-  <img src="https://raw.githubusercontent.com/must-git/must-git/output/snake.svg" />
+  ![GitHub Snake](https://must-git.github.io/must-git/github-contribution-grid-snake.svg)
   
   <br>
   
