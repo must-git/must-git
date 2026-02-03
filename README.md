@@ -32,7 +32,7 @@
   
   <h1 align="left">My GitHub Contribution 🐍</h1>
 
-  ![GitHub Snake](https://must-git.github.io/must-git/snake.svg)
+![My GitHub Game](game.gif)
   
   <br>
   
