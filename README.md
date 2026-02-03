@@ -21,14 +21,15 @@
   
   <br>
   
-  <h1 align="left">Tech Stack 💻</h1>
-  
+ <!--
+ <h1 align="left">Tech Stack 💻</h1>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,python,java" /><br/>
     <img src="https://skillicons.dev/icons?i=php,react,django,mongodb,git,github,vercel" />
   </p>
-  
   <br/>
+  -->
+  
   <h1 align="left">My GitHub Contribution 🐍</h1>
 
   ![GitHub Snake](https://must-git.github.io/must-git/snake.svg)
