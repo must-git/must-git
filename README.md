@@ -50,8 +50,6 @@
  
  <br/>
  
- <h1 align="left">My GitHub Contribution 🐍</h1>
- 
  ![My GitHub Game](game.gif)
  
  <br>
