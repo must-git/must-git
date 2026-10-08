@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=30&duration=3000&pause=2000&color=00FFD2&center=true&vCenter=true&width=1024&height=100&lines=Yo+Geeks!;My+name+is+...;Mustapha+%7C+%D9%85%D8%B5%D8%B7%D9%81%D9%89+%7C++%E2%B5%8E%E2%B5%93%E2%B5%99%E2%B5%9C%E2%B4%B0%E2%B4%BC%E2%B4%B0;I+am+a+Software+Engineering+Student;Welcome+y'all++%7C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D9%83%D9%85+%7C+%E2%B4%B0%E2%B5%8F%E2%B5%99%E2%B5%93%E2%B4%BC+%E2%B4%BC%E2%B4%BB%E2%B5%8D%E2%B5%8D%E2%B4%B0%E2%B5%A1%E2%B4%BB%E2%B5%8F;%5E_%5E+Peace+and+Code+%3C%2F%3E" alt="Typing SVG" />
  
  <h1 align="left">Let's Connect and have a Chat! 📬</h1>
+
+![](https://komarev.com/ghpvc/?username=must-gite&style=for-the-badge&color=dc143c&abbreviated=truelabel=PROFILE+VIEWS)
  
  <div align="center">
   <p>
